@@ -1,0 +1,9 @@
+
+{
+  "name": "Tetron Solutions",
+  "description": "A premier IT training, staffing, recruitment, and software development agency providing world-class career transformation and technology solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
