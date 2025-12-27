@@ -1,4 +1,4 @@
-import{c as u,j as e,L as c,r as i}from"./index-rEHA83mj.js";import{G as w}from"./graduation-cap-DeWIxAft.js";import{B as v}from"./briefcase-C1HBCQDN.js";import{Q as j}from"./quote-Dfgws2od.js";import{A as y}from"./arrow-right-yRdQMm1u.js";import{S as N}from"./sparkles-DA1pHnKd.js";/**
+import{c as u,j as e,L as c,r as i}from"./index-DGJb3soW.js";import{G as w}from"./graduation-cap-BsHk8oE8.js";import{B as v}from"./briefcase-58R9UoJW.js";import{Q as j}from"./quote-9Mn5N7OZ.js";import{A as y}from"./arrow-right-BFeKBYW2.js";import{S as N}from"./sparkles-B96MT-kr.js";/**
  * @license lucide-react v0.562.0 - ISC
  *
  * This source code is licensed under the ISC license.
