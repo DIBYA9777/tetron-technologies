@@ -7,7 +7,7 @@ const Contact: React.FC = () => {
     name: '',
     email: '',
     phone: '',
-    interest: 'IT Training Programs',
+    interest: '',
     message: '',
     website: '' // Honeypot field (hidden)
   });
