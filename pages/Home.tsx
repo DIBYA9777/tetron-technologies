@@ -76,8 +76,8 @@ const Home: React.FC = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <ServiceCard icon={<BookOpen size={32} />} title="IT Training" desc="Skill-based bootcamps for modern tech stacks." link="/programs" color="bg-blue-600" delay="delay-100" />
-            <ServiceCard icon={<Users size={32} />} title="Staffing" desc="Rapid on-demand technical talent acquisition." link="/services" color="bg-indigo-600" delay="delay-200" />
-            <ServiceCard icon={<Briefcase size={32} />} title="Recruitment" desc="Global executive and permanent hiring." link="/services" color="bg-cyan-600" delay="delay-300" />
+            <ServiceCard icon={<Users size={32} />} title="Staffing" desc="Rapid on-demand technical talent acquisition." link="/talent-solutions" color="bg-indigo-600" delay="delay-200" />
+            <ServiceCard icon={<Briefcase size={32} />} title="Recruitment" desc="Global executive and permanent hiring." link="/talent-solutions" color="bg-cyan-600" delay="delay-300" />
             <ServiceCard icon={<Code size={32} />} title="IT Development" desc="High-end custom software & enterprise tools." link="/development" color="bg-violet-600" delay="delay-400" />
           </div>
         </div>
